@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Hey, I'm Abi. I study computer science at VIT Vellore and like building things end to end.
+  Hey, I'm Abishek. I study computer science at VIT Vellore and like building things end to end.
 </p>
 
 <p align="center">🥈 Runner-up · SEMICON India National Hackathon 2026</p>
